@@ -1,7 +1,5 @@
-Hello,
-
 # 50-digits-operation
-Multiply and Divide Two 50 digits number by C programming language.
+Multiplying and Dividing Two 50 digits numbers by C programming language.
 
 Just compile main.c file and enjoy it. :D
 
